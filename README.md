@@ -12,11 +12,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadamgad7&theme=radical" height="180px" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zeyadamgad7" alt="GitHub Streak" />
 </div>
 
 <br><br>
-<hr width="60%" >
 
 <!-- Contact Section -->
 <h2 align="center">🤝 Connect with Me</h2>
