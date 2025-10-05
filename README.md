@@ -1,6 +1,4 @@
-
 <!-- Profile Stats Section -->
-
 <h2 align="center">✨ My GitHub Stats ✨</h2>
 <br>
 
@@ -9,13 +7,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zeyadamgad7&show_icons=true&theme=tokyonight" height="160px" alt="GitHub Stats" />
 </div>
 
+<br><br>
+
+<!-- LeetCode Stats Section -->
+<h2 align="center">💡 My LeetCode Stats 💡</h2>
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadamgad7&theme=tokyonight&hide_border=false&border_radius=10" height="180px" alt="GitHub Streak"/>
+  <img src="https://leetcard.jacoblin.cool/zeyadamgad?theme=tokyonight&font=Karma&ext=heatmap" height="300px" alt="LeetCode Stats"/>
 </div>
-
-
 
 <br><br>
 
