@@ -12,8 +12,9 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zeyadamgad7&theme=tokyonight&hide_border=false&border_radius=10" height="180px" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadamgad7&theme=tokyonight&hide_border=false&border_radius=10" height="180px" alt="GitHub Streak"/>
 </div>
+
 
 
 <br><br>
