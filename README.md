@@ -5,15 +5,16 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadamgad7&show_icons=true&theme=radical&layout=compact" height="160px" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zeyadamgad7&show_icons=true&theme=radical" height="160px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadamgad7&show_icons=true&theme=tokyonight&layout=compact" height="160px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadamgad7&show_icons=true&theme=tokyonight" height="160px" alt="GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zeyadamgad7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zeyadamgad7&theme=tokyonight&hide_border=false&border_radius=10" height="180px" alt="GitHub Streak"/>
 </div>
+
 
 <br><br>
 
@@ -28,7 +29,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:zeyadamgad7@gmail.com">
+  <a href="mailto:zeyad.amgad.za@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
