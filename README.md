@@ -1,39 +1,45 @@
 
+<!-- Profile Stats Section -->
+<hr width="40%" >
 
-<hr width="36%" >
-
-<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<h2 align="center">✨ My GitHub Stats ✨</h2>
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadamgad7&show_icons=true&theme=radical&layout=compact" height="160px" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeyadamgad7&show_icons=true&theme=radical" height="160px" alt="GitHub Stats" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeyadamgad7&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<br>
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zeyadamgad7&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadamgad7&theme=radical" height="180px" alt="GitHub Streak" />
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadamgad7&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <hr width="60%" >
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/zeyad-amgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-</p>
+
+<!-- Contact Section -->
+<h2 align="center">🤝 Connect with Me</h2>
+
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/zeyad-amgad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:zeyadamgad7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/zeyadamgad7/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+</div>
+
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
-
-<!--
-**zeyadamgad7/zeyadamgad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr width="40%">
